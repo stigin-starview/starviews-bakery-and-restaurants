@@ -1,2 +1,0 @@
-# use the templates from basic fashion project and use djnago all auth function
-#
